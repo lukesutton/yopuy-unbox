@@ -1,0 +1,18 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "Unbox",
+      "reason": null,
+      "repositoryURL": "https://github.com/johnsundell/unbox.git",
+      "version": "2.4.0"
+    },
+    {
+      "package": "Yopuy",
+      "reason": null,
+      "repositoryURL": "https://github.com/lukesutton/Yopuy.git",
+      "version": "0.1.0"
+    }
+  ],
+  "version": 1
+}
